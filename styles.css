@@ -1,0 +1,29 @@
+.homepage{ 
+
+    color: violet;
+    text-align: center;
+    background-color: black;
+    font-family: "Courier New", "Lucida Console", monospace;
+
+}
+
+.recipe-list{
+
+    color: white;
+    list-style: none;
+
+}
+
+.recipe-page{
+
+    background-color: black;
+    color: white;
+    text-align: left;
+    font-family: "Courier New", "Lucida Console", monospace;
+
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
